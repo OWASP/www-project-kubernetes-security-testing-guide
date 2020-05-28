@@ -1,6 +1,6 @@
 ### Kubernetes Security Testing Guide Information
-* [Flagship Project](#)
-* [Tool Project](#)
+* [Incubator Project](#)
+* [Documentation Project](#)
 * [Version 2.8.0](#)
 * [Builder](#)
 * [Breaker](#)
