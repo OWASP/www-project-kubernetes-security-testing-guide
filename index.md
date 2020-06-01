@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Kubernetes Security Testing Guide
-tags: example-tag
+tags: kstg
 level: 1
 type: 
-pitch: A very brief, one-line description of your project
+pitch: A comprehensive guide to Kubernetes Security Testing
 
 ---
 
