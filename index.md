@@ -4,19 +4,36 @@ layout: col-sidebar
 title: OWASP Kubernetes Security Testing Guide
 tags: kstg
 level: 1
-type: 
+type:
 pitch: A comprehensive guide to Kubernetes Security Testing
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+[![Creative Commons License](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0")
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+## Our Vision
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+### "Create a comprehensive manual for Kubernetes Cluster Security Assessment"
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+We are creating a comprehensive testing guide for Kubernetes cluster security assessment that covers a top down approach to assess the security of a cluster. The guide include methodology, tools, techniques and procedures (TTP) to execute an assessment that enables a tester to deliver consistent and complete results.
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+## Deliverables
 
-type: code, tool, documentation, or other
+### Kubernetes Security Testing Guide (KSTG)
+
+The KSTG is (aims to be) a comprehensive manual for Kubernetes security analysts and red teamers. It aims to help DevSecOps Teams understand attacker TTPs and design effective countermeasures. KSTG *propose* to have the following high-level structure:
+
+1. Introduction to Kubernetes Architecture and its Components
+2. Kubernetes Cluster Threat Model
+3. Container Security Assessment
+4. Cluster Discovery and Recon
+5. Cluster Security Assessment
+6. Auditing against CIS Benchmarks
+
+### Kubernetes Security Testing Checklist
+
+A checklist will be created based on the KSTG. This checklist is meant to be used as a reference by security testers during engagements.
+
+### Kubernetes Security Testing Tools
+
+TBD
