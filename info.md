@@ -19,7 +19,7 @@
 
 ### Code Repository
 
-* [repo](#)
+* [repo](https://github.com/OWASP/www-project-kubernetes-security-testing-guide)
 
 ### Change Log
 
