@@ -37,23 +37,23 @@ A checklist will be created based on the KSTG. This checklist is meant to be use
 ### Kubernetes Security Testing Tools
 
 * Infrastructure Security
-** CloudSploit, https://github.com/cloudsploit/scans
+.. CloudSploit, https://github.com/cloudsploit/scans
 
 * Docker Security
-** Clair, https://github.com/quay/clair 
-** Anchore, https://github.com/anchore/anchore-engine
-** OpenSCAP, https://github.com/OpenSCAP/openscap
+.. Clair, https://github.com/quay/clair 
+.. Anchore, https://github.com/anchore/anchore-engine
+.. OpenSCAP, https://github.com/OpenSCAP/openscap
 
 * Kubernetes Security
-** kube-bench, https://github.com/aquasecurity/kube-bench
-** kubeaudit, https://github.com/Shopify/kubeaudit
-** kube-scan, https://github.com/octarinesec/kube-scan 
-** kubesec, https://github.com/controlplaneio/kubesec
-** kube-hunter, https://github.com/aquasecurity/kube-hunter
-** kubei, https://github.com/Portshift/kubei
+.. kube-bench, https://github.com/aquasecurity/kube-bench
+.. kubeaudit, https://github.com/Shopify/kubeaudit
+.. kube-scan, https://github.com/octarinesec/kube-scan 
+.. kubesec, https://github.com/controlplaneio/kubesec
+.. kube-hunter, https://github.com/aquasecurity/kube-hunter
+.. kubei, https://github.com/Portshift/kubei
 
 * General Purpose
-** Metasploit
-** Panther, Cloud-Native SIEM, https://github.com/panther-labs/panther
-** Sysdig Falco
+.. Metasploit
+.. Panther, Cloud-Native SIEM, https://github.com/panther-labs/panther
+.. Sysdig Falco
 
