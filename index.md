@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Kubernetes Security Testing Guide
 tags: kstg
-level: 1
+level: 2
 type:
 pitch: A comprehensive guide to Kubernetes Security Testing
 
