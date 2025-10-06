@@ -1,0 +1,23 @@
+audience:
+  - breaker
+  - builder
+  - defender
+leaders:
+  - name: Madhu Akula
+    github: madhuakula
+  - name: Abhisek Datta
+    email: abhisek.datta@gmail.com
+    github: abhisek
+level: 2
+name: OWASP Kubernetes Security Testing Guide
+pitch: A comprehensive guide to Kubernetes Security Testing
+repositories:
+  - name: www-project-kubernetes-security-testing-guide
+    url: https://github.com/OWASP/www-project-kubernetes-security-testing-guide
+    description: OWASP Kubernetes Security Testing Guide
+tags:
+  - kstg
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-kubernetes-security-testing-guide
